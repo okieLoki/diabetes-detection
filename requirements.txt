@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+missingno
+seaborn
+sckit-learn
+
